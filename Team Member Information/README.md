@@ -1,4 +1,4 @@
-# Team Member Information
+# Team Members Information
 
 
 ##  Shumsuzzoha Sunam
