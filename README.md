@@ -7,17 +7,17 @@ providing out-of-hospital treatment and transport to definitive care. They may a
 
 ## Full Project
 Click here ⮯
-### [Code Snippet](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Bchao)
+### [Bchao](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Bchao)
 
 
 ## Presentation
 Click here ⮯
-### [Code Snippet](https://prezi.com/view/fMuQFruLLeXzvniZ4fPR/)
+### [Presentation](https://prezi.com/view/fMuQFruLLeXzvniZ4fPR/)
 
 
 ## Report
 Click here ⮯
-### [Code Snippet](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Final%20Project%20Report)
+### [Report](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Final%20Project%20Report)
 
 ## Team Member Information 
 Click here ⮯
