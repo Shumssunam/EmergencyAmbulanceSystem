@@ -19,7 +19,7 @@ Click here ⮯
 Click here ⮯
 ### [Report](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Final%20Project%20Report)
 
-## Team Member Information 
+## Team Members Information 
 Click here ⮯
 ### [Information](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Team%20Member%20Information)
 
