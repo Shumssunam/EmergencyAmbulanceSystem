@@ -19,7 +19,7 @@ Click here ⮯
 Click here ⮯
 ### [Code Snippet](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Final%20Project%20Report)
 
-## Team Member Inforn=mation 
+## Team Member Information 
 Click here ⮯
 ### [Code Snippet](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Final%20Project%20Report)
 
