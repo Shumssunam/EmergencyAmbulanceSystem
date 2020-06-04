@@ -21,5 +21,5 @@ Click here ⮯
 
 ## Team Member Information 
 Click here ⮯
-### [Code Snippet](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Final%20Project%20Report)
+### [Information](https://github.com/Shumssunam/EmergencyAmbulanceSystem/tree/master/Team%20Member%20Information)
 
