@@ -20,4 +20,4 @@
 ~~~
 ![](https://user-images.githubusercontent.com/32149904/83940195-9157b000-a804-11ea-81c5-7033c71926a9.png)
 
-### We took the project this semester CSE 498, Fall, 2018-19
+### - We took the project this semester, Fall, 2018-19
