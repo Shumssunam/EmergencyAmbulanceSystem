@@ -18,4 +18,4 @@
 - ID: 14153103128
 - Mobile No: 01673757546
 ~~~
-![Screenshots](images/SharedScreenshot.png)
+![Screenshots](https://prnt.sc/sutazk)
